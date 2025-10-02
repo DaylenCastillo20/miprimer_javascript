@@ -1,8 +1,8 @@
 .container{
-	background-color: blueviolet;
+	background-color: lightblue;
 }
 
 .container-fluid{
-	background-color: gray;
-	text-align: center;
+	background-color: white;
+	text-align: text-align;
 }
